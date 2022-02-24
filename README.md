@@ -1,2 +1,3 @@
 # Tetris
-xfun::embed_file("MANUAL DE USUARIO TETRIS.pdf")
+
+    <iframe src="MANUAL DE USUARIO TETRIS.pdf" width="100%" height="500px"></iframe>
