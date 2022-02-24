@@ -1,2 +1,2 @@
 # Tetris
-<embed src="/MANUAL DE USUARIO TETRIS.pdf" type="application/pdf">
+xfun::embed_file("MANUAL DE USUARIO TETRIS.pdf")
