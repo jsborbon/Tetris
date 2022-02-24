@@ -1,2 +1,2 @@
 # Tetris
-![Manual de Usuario](MANUAL DE USUARIO TETRIS.pdf)
+<embed src="MANUAL DE USUARIO TETRIS.pdf" type="application/pdf">
